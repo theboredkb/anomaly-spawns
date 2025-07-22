@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:tablogo/logo.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": ["\uE000"]
+    }
+  ]
+}
